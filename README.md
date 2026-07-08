@@ -1,4 +1,4 @@
-# 🍽️ Swiggy Restaurant Analytics Dashboard
+# Swiggy Restaurant Analytics Dashboard
 
 ## 📌 Project Overview
 
